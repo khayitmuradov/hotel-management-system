@@ -1,5 +1,5 @@
 # Mehmonxona
-
+Dasturni ishlatish bo'yicha youtube'ga video tutorial joyladim: https://www.youtube.com/watch?v=TdFqsEp8c-o&t=7s
 Reja:
 2 ta class ularning propertylari va methodlari bo'ldi:
 
