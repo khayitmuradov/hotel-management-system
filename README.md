@@ -1,6 +1,5 @@
 # Mehmonxona
 Dasturni ishlatish bo'yicha youtube'ga video tutorial joyladim: https://www.youtube.com/watch?v=TdFqsEp8c-o&t=7s
-
 Reja:
 2 ta class ularning propertylari va methodlari bo'ldi:
 
@@ -31,7 +30,7 @@ getAllUsers()
 
 bundan tashqari file'larning har birini file'ga saqlaydigan qilindi, buning uchun saveUserToFile() method yasaldi.
 
-____________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________
 
 so'ralgan barcha talablar bajarildi:
 1. userlarning barchasi olishda `vector` container'idan foydalanildi
